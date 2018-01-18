@@ -4,9 +4,9 @@ Example:
 
             Sample Input:
             
-            6
+            6 (length of array, write 6 and press enter)
             
-            -4 3 -9 0 4 1 
+            -4 3 -9 0 4 1 (after writting length of array write this line. NOTE: not leaving space at the end of line.)
 
 
             Sample Output;
