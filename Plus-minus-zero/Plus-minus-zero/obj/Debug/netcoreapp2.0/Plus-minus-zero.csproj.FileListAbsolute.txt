@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\bin\Debug\netcoreapp2.0\Plus-minus-zero.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\bin\Debug\netcoreapp2.0\Plus-minus-zero.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\bin\Debug\netcoreapp2.0\Plus-minus-zero.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\bin\Debug\netcoreapp2.0\Plus-minus-zero.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\bin\Debug\netcoreapp2.0\Plus-minus-zero.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Plus-minus-zero\Plus-minus-zero\obj\Debug\netcoreapp2.0\Plus-minus-zero.pdb
