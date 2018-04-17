@@ -1,3 +1,7 @@
+**Plus Minus**
+
+Problem: https://www.hackerrank.com/challenges/plus-minus/problem
+
 Example:
 
             Sample Input:
